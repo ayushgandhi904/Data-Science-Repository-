@@ -1,6 +1,8 @@
 # Data-Science-Repository-
 Contains complete Data Science Learning end-to-end.
 
+![Alt text](<Ayush DS File.png>)
+
 ## Data Science Learning Path:
 
 1. Python (Programming Language)
