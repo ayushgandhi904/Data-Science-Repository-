@@ -1,7 +1,8 @@
 # Data-Science-Repository-
 Contains complete Data Science Learning end-to-end.
 
-![Alt text](<Ayush DS File.png>)
+![Ayush DS File](https://github.com/ayushgandhi904/Data-Science-Repository-/assets/96850890/3c41d807-185a-400e-8318-5bff95dbb442)
+
 
 ## Data Science Learning Path:
 
